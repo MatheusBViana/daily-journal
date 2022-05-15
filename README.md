@@ -10,4 +10,4 @@ A simple blog website template built with JavaScript
 6. Posts displayed on the home page are currently concatenated to 80 characters, but you can click on the content to open up a new page with the full post.
 7. If you try to pull up a page that doesn't exists, the application will send a page with the message "Error - Page Not Found".
 
-<img src="https://i.imgur.com/5mu1aS2.png" width=200>
+<img src="https://i.imgur.com/5mu1aS2.png">
