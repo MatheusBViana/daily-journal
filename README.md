@@ -1,5 +1,6 @@
 # Daily Journal
 A simple blog website template built with JavaScript, HTML and CSS. This uses Express on node.js to create a stand alone application that allows a user to set up a basic blog or daily journal.
+<img src="https://i.imgur.com/vylGr7o.png">
 
 ## How to run
   
@@ -13,4 +14,3 @@ A simple blog website template built with JavaScript, HTML and CSS. This uses Ex
 8. Posts displayed on the home page are currently concatenated to 80 characters, but you can click on the content to open up a new page with the full post.
 9. If you try to pull up a page that doesn't exists, the application will send a page with the message "Error - Page Not Found".
 
-<img src="https://i.imgur.com/vylGr7o.png">
