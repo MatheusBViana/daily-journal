@@ -1,7 +1,8 @@
 # Daily Journal
-A simple blog website template built with JavaScript
+A simple blog website template built with JavaScript, HTML and CSS. This uses Express on node.js to create a stand alone application that allows a user to set up a basic blog or daily journal.
 
-## Steps
+## How to run
+  
 1. <code>node</code> app.js (or use <code>nodemon</code> for server monitoring)
 2. Open up browser to localhost:3000 to pull up the base application.
 3. The app interface comes pre populated with 4 pages: Home, About Us, Contact Us and Add Topic.
