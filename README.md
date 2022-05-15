@@ -1,6 +1,6 @@
 # Daily Journal
 A simple blog website template built with JavaScript, HTML and CSS. This uses Express on node.js to create a stand alone application that allows a user to set up a basic blog or daily journal.
-<img src="https://i.imgur.com/vylGr7o.png">
+<img src="https://i.imgur.com/1rs7WNi.png">
 
 ## How to run
   
